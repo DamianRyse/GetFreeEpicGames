@@ -3,7 +3,11 @@
 [![Support Server](https://img.shields.io/discord/409050120894545920?color=%23ef5600&label=DISCORD&style=for-the-badge)](https://discord.gg/YP4eNUF)
 
 This bash script will parse Epic Games for currently available free games. It won't post games which are free by default but have a 100% discount.
-To run this script, [Discord.sh](https://chaoticweg.cc/discord.sh) is required to be in the same directory.
+
+## Prerequisites
+- [jq](https://stedolan.github.io/jq/)
+- [Xidel](https://github.com/benibela/xidel)
+- [Discord.sh](https://chaoticweg.cc/discord.sh)
 
 ## How to use
 
